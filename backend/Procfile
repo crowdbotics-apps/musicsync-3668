@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT musicsync_3668.wsgi:application

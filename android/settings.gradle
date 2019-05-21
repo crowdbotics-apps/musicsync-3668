@@ -1,0 +1,3 @@
+rootProject.name = 'musicsync_3668'
+
+include ':app'
